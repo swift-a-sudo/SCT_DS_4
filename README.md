@@ -18,5 +18,4 @@ Python | Pandas | Matplotlib | Seaborn | Folium
 4. Create an interactive accident hotspot map.
 
 ## 📊 Output
-- Interactive `us_accidents_hotspots.html` map
 - Inline EDA charts
